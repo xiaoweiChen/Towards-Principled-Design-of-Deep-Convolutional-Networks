@@ -1,4 +1,4 @@
-#深度卷积网络的原理设计：一个简单的SimpNet
+# 深度卷积网络的原理设计：一个简单的SimpNet
 
 [原文链接](https://arxiv.org/pdf/1802.06205.pdf)
 
