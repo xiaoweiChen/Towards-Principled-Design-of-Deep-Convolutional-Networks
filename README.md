@@ -21,5 +21,3 @@
   ## 索引词
 
   深度学习，卷积神经网络，简单网络，分类，效率
-
-  [gitbook在线阅读](https://legacy.gitbook.com/book/chenxiaowei/towards-principled-design-of-deep-convolutional-n)
